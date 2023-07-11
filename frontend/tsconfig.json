@@ -1,0 +1,41 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "src/app/components/SellNFT.js",
+    "src/app/upload/NFT/UploadNFTUI.jsx",
+    "src/app/home/components/marketplace/Marketplace.tsx",
+    "src/app/home/components/trendNft/TrendNft.jsx",
+    "src/app/home/components/concept/ModernConcept.tsx",
+    "src/app/(pages)/profile/page.jsx",
+    "src/app/(pages)/nftpage/[tokenId]/page.tsx",
+    "src/app/navbar/navbar.tsx"
+  ],
+  "exclude": ["node_modules"]
+}
