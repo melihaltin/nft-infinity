@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/99184393/185779974-a31a9f47-f8d3-42ea-b7f8-4a2971774615.png" alt="logo" width="250" height="auto" />
+  <img src="https://raw.githubusercontent.com/melihaltin/nft-infinity/d4e8fb6935fbe6791a6d443c0b67b70eccda8629/frontend/public/logos/logo.svg?token=A73Y3ZBMF5C7ZE7XLYE55P3EVZQWW" alt="logo" width="250" height="auto" />
   
 # NFT-Infinity
   
