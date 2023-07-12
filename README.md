@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/melihaltin/nft-infinity/95979aa13bada85ad54e907b119d0668399a8a16/frontend/public/logos/logo.svg?token=A73Y3ZFIGX3HF4IHQ5WQXUTEVZY3C" alt="logo" width="250" height="auto" />
+  <img src="https://raw.githubusercontent.com/melihaltin/nft-infinity/ee0f773e65cb08cd9dc39939c62db07e467bfe75/frontend/public/logos/logo.svg?token=A73Y3ZGFE7P6CIASMJZ4XATEVZ7KQ" alt="logo" width="250" height="auto" />
   
 # NFT-Infinity
   
@@ -99,7 +99,7 @@ Full Stack DApp with Next.js 13 Tailwind-css, Hardhat , Metamask, Alchemy, Pinat
 <a href="#"><img src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png" alt="" width="30" height="30" /></a>
         </td>
                                 <td>
-<a href="#"><img src="alchemy" alt="" width="30"height="30"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/melihaltin/nft-infinity/ee0f773e65cb08cd9dc39939c62db07e467bfe75/readme/images/Pinnie.svg?token=A73Y3ZHX3SY7MVY7PJ5NRILEVZ62Y" alt="" width="30"height="30"/></a>
         </td>
                                       <td>
 <a href="#"><img src="pinata" alt="" width="30"height="30"/></a>
