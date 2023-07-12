@@ -133,7 +133,6 @@ To run this project, you will need to add the following environment variables to
 
 `PINATA_PRIVATE_KEY`
 
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### :gear: Installation
@@ -202,10 +201,6 @@ Add the `@tailwind` directives for each of Tailwind’s layers to your `./styles
 @tailwind utilities;
 ```
 
-Install dependencies
-
-<a href="https://github.com/SashenJayathilaka/Airbnb-Build/blob/master/package.json" target="_blank">🔶 Dependency Info</a>
-
 <!-- Run Locally -->
 
 ### :running: Run Locally
@@ -215,13 +210,13 @@ Install dependencies
 Clone the project
 
 ```bash
-  git clone https://github.com/SashenJayathilaka/Airbnb-Build.git
+  git clone https://github.com/melihaltin/nft-infinity.git
 ```
 
 change directory
 
 ```bash
-  cd Airbnb-Build
+  cd nft-infinity
 ```
 
 Install dependencies
@@ -275,15 +270,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## :handshake: Contact
 
-Sashen - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
+Melih - [Gmail](melihaltin00@gmail.com)(melihaltin00@gmail.com)
 
-Project Link: [https://github.com/SashenJayathilaka/Airbnb-Build.git](https://github.com/SashenJayathilaka/Airbnb-Build.git)
+Project Link: [https://github.com/melihaltin/nft-infinity.git](https://github.com/melihaltin/nft-infinity.git)
 
 <br />
-
-<div align="center">
-<a href="https://airbnb-sclone.vercel.app"><img  src='https://user-images.githubusercontent.com/99184393/229773559-72e7f64a-361d-4285-976a-00a8919dd783.png' alt='image'/></a>
-</div>
 
 <br />
 
