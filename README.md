@@ -37,31 +37,27 @@ Full Stack DApp with Next.js 13 Tailwind-css, Hardhat , Metamask, Alchemy, Pinat
 
 ### :camera: Screenshots
 
-- General View
-  <img src="general view" width="auto">
-  <br />
+#### General View
 
-- Connect Wallet
-  <img src="general view" width="auto">
-  <br />
+![General View](https://github.com/melihaltin/nft-infinity/blob/main/readme/captures/view.gif?raw=true)
 
-- Upload NFT
-  <img src="general view" width="auto">
-  <br />
+#### Connect Wallet
 
-- Buy the NFT
-  <img src="general view" width="auto">
-  <br />
+![Connect Wallet](https://github.com/melihaltin/nft-infinity/blob/main/readme/captures/connectwallet.gif?raw=true)
+
+#### Upload NFT
+
+![Upload NFT](https://github.com/melihaltin/nft-infinity/blob/main/readme/captures/upload.gif?raw=true)
+
+#### Buy the NFT
+
+![Buy the NFT](https://github.com/melihaltin/nft-infinity/blob/main/readme/captures/buyNFT.gif?raw=true)
 
 <!-- <div align="center">
 <a href="https://airbnb-sclone.vercel.app"><img  src='./demo/ezgif-4-27f1be5f56.gif' alt='image'/></a>
 </div> -->
 
 <br />
-
-<div align="center">
-<a href="https://airbnb-sclone.vercel.app"><img  src='./demo/ezgif-4-8ac9db77ff.gif' alt='image'/></a>
-</div>
 
 ### :space_invader: Tech Stack
 
