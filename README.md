@@ -9,22 +9,7 @@ Full Stack DApp with Next.js 13 Tailwind-css, Hardhat , Metamask, Alchemy, Pinat
   </p>
   
 <!-- Badges -->
-<a href="https://airbnb-sclone.vercel.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
-![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/github/forks/SashenJayathilaka/Airbnb-Build.svg)
-![](https://img.shields.io/github/stars/SashenJayathilaka/Airbnb-Build.svg)
-![](https://img.shields.io/github/issues/SashenJayathilaka/Airbnb-Build)
-![](https://img.shields.io/github/last-commit/SashenJayathilaka/Airbnb-Build)
 
-<h4>
-    <a href="https://abproject-sclone.vercel.app">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/Airbnb-Build/blob/master/README.md">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/Airbnb-Build/issues">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/Airbnb-Build/issues">Request Feature</a>
-  </h4>
 </div>
 
 <br />

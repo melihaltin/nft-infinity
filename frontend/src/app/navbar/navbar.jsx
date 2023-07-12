@@ -19,8 +19,6 @@ const Navbar = (props) => {
   }
 
   async function connectWebsite() {
-    console.log("asdsada");
-
     const chainId = await window.ethereum.request({ method: "eth_chainId" });
     if (chainId !== "0x5") {
       //alert('Incorrect network! Switch your metamask network to Rinkeby');
@@ -68,7 +66,7 @@ const Navbar = (props) => {
         onClick={() => {
           connected ? connectWebsite() : null;
         }}
-        buttonText={connected ? "Address: " + walletAddress : "Connect Wallet"}
+        buttonText={connected ? walletAddress : "Connect Wallet"}
         className="h-14 px-4 w-auto"
       />
       <div className="flex flex-row mr-24 text-sm items-center mt-5">

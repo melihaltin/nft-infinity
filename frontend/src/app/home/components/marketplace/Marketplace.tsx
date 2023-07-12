@@ -30,6 +30,7 @@ const Marketplace = () => {
       image: "nfts/coolguy.svg",
       tokenId: 2,
     },
+
     {
       name: "Angry Dooge",
       price: "15",
