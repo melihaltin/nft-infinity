@@ -96,28 +96,21 @@ Full Stack DApp with Next.js 13 Tailwind-css, Hardhat , Metamask, Alchemy, Pinat
                         <td>
 <a href="#"><img src="https://user-images.githubusercontent.com/99184393/179383376-874f547c-4e6f-4826-850e-706b009e7e2b.png" alt="" width="30" height="30" /></a>
         </td>
-
+                              <td>
+<a href="#"><img src="https://user-images.githubusercontent.com/99184393/181918664-569af962-756c-438c-b350-294f042e6f61.png" alt="" width="30" height="30" /></a>
+        </td>
                         <td>
-
 <a href="#"><img src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png" alt="" width="30" height="30" /></a>
-
-</td>
- <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/99184393/185779974-a31a9f47-f8d3-42ea-b7f8-4a2971774615.png" alt="" width="30"height="30"/></a>
-
-</td>
-
-<td>
+        </td>
+                                <td>
 <a href="#"><img src="alchemy" alt="" width="30"height="30"/></a>
-
-</td>
-<td>
+        </td>
+                                      <td>
 <a href="#"><img src="pinata" alt="" width="30"height="30"/></a>
-
-</td>
-
-</tr>
-
+        </td>
+     
+       
+   </tr>
 </table>
 
 ## :toolbox: Getting Started
@@ -125,10 +118,8 @@ Full Stack DApp with Next.js 13 Tailwind-css, Hardhat , Metamask, Alchemy, Pinat
 ### :bangbang: Prerequisites
 
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
-- Sign up for a Cloudinary account <a href='https://cloudinary.com/'>HERE</a>
-- Sign up for a Google Cloud Platform <a href='https://console.cloud.google.com/'>HERE</a>
-- Sign up for a Meta for Developers <a href='https://developers.facebook.com'>HERE</a>
-- Get Lookup APi Key <a href='https://extreme-ip-lookup.com/'>HERE</a>
+- Sign up for a Alchemy account <a href='https://www.alchemy.com/'>HERE</a>
+- Get Pinata APi Key <a href='https://app.pinata.cloud/developers/api-keys'>HERE</a>
 
 <!-- Env Variables -->
 
@@ -136,23 +127,12 @@ Full Stack DApp with Next.js 13 Tailwind-css, Hardhat , Metamask, Alchemy, Pinat
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`DATABASE_URL`
+`ALCHEMY_API_KEY`
 
-`GOOGLE_CLIENT_ID`
+`PRIVATE_KEY`
 
-`GOOGLE_CLIENT_SECRET`
+`PINATA_PRIVATE_KEY`
 
-`FACEBOOK_ID`
-
-`FACEBOOK_SECRET`
-
-`NEXTAUTH_SECRET`
-
-`NEXTAUTH_URL`
-
-`NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME`
-
-`NEXT_PUBLIC_LOOKUP_KEY`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
