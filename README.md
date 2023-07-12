@@ -37,25 +37,31 @@ Full Stack DApp with Next.js 13 Tailwind-css, Hardhat , Metamask, Alchemy, Pinat
 
 ### :camera: Screenshots
 
-- Reservation functionality & Description and Price, Listing creation, Listing card component
+- General View
+  <img src="general view" width="auto">
+  <br />
 
-<div align="center">
+- Connect Wallet
+  <img src="general view" width="auto">
+  <br />
+
+- Upload NFT
+  <img src="general view" width="auto">
+  <br />
+
+- Buy the NFT
+  <img src="general view" width="auto">
+  <br />
+
+<!-- <div align="center">
 <a href="https://airbnb-sclone.vercel.app"><img  src='./demo/ezgif-4-27f1be5f56.gif' alt='image'/></a>
-</div>
+</div> -->
 
 <br />
-
-- Searching functionality Favorite functionality, Individual Listing View, Listing reservation component
 
 <div align="center">
 <a href="https://airbnb-sclone.vercel.app"><img  src='./demo/ezgif-4-8ac9db77ff.gif' alt='image'/></a>
 </div>
-
-## <a href="https://airbnb-sclone.vercel.app" target="_blank">LIVE DEMO 💥</a>
-
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
-![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
 ### :space_invader: Tech Stack
 
@@ -66,15 +72,14 @@ Full Stack DApp with Next.js 13 Tailwind-css, Hardhat , Metamask, Alchemy, Pinat
     <li><a href="https://nextjs.org/">Next.js</a></li>
     <li><a href="https://reactjs.org/">React.js</a></li>
     <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-    <li><a href="https://www.prisma.io">Prisma</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-  <li><a href="https://firebase.google.com">Mongodb</a></li>
-  <li><a href="https://cloudinary.com/">Cloudinary</a></li>
+  <li><a href="https://www.alchemy.com/">Alchemy</a></li>
+  <li><a href="https://app.pinata.cloud/">Pinata</a></li>
   </ul>
 </details>
 
@@ -91,25 +96,28 @@ Full Stack DApp with Next.js 13 Tailwind-css, Hardhat , Metamask, Alchemy, Pinat
                         <td>
 <a href="#"><img src="https://user-images.githubusercontent.com/99184393/179383376-874f547c-4e6f-4826-850e-706b009e7e2b.png" alt="" width="30" height="30" /></a>
         </td>
-                              <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/99184393/181918664-569af962-756c-438c-b350-294f042e6f61.png" alt="" width="30" height="30" /></a>
-        </td>
+
                         <td>
+
 <a href="#"><img src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png" alt="" width="30" height="30" /></a>
-        </td>
-                                <td>
+
+</td>
+ <td>
 <a href="#"><img src="https://user-images.githubusercontent.com/99184393/185779974-a31a9f47-f8d3-42ea-b7f8-4a2971774615.png" alt="" width="30"height="30"/></a>
-        </td>
-                                      <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/99184393/229775276-a7cb148b-7fbd-4334-a07f-f2223bc49f62.png" alt="" width="30"height="30"/></a>
-        </td>
-      <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/99184393/204170976-0e5c6e2a-2b41-483d-adbd-d5d1e40b8d15.png" alt="" width="30"height="30"/></a>
-        </td>
-        <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/99184393/214867309-7b59fa0e-c872-484e-bc8f-462896c54d2a.png" alt="" height="30"/></a>
-        </td>
-    </tr>
+
+</td>
+
+<td>
+<a href="#"><img src="alchemy" alt="" width="30"height="30"/></a>
+
+</td>
+<td>
+<a href="#"><img src="pinata" alt="" width="30"height="30"/></a>
+
+</td>
+
+</tr>
+
 </table>
 
 ## :toolbox: Getting Started
